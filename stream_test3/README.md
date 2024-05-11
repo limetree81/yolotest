@@ -1,0 +1,2 @@
+- File detector.py line 60, model 주소 입력 후
+-  server.py를 실행
